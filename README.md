@@ -43,4 +43,7 @@
 
 ![image](https://github.com/user-attachments/assets/da16d266-99e1-4e49-92a8-e997a7aa1a8f)
 
+Можно отслеживать свои проекты и проекты других
+
+![image](https://github.com/user-attachments/assets/1a7abdc2-889d-44ca-a0d0-103d16ce366e)
 
