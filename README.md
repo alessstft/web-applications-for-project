@@ -33,7 +33,13 @@
 
 ![image](https://github.com/user-attachments/assets/771108c2-1de8-493d-a15b-ca6de3002939)
 
- Пользователь может сам добавлять себе задачи, изменять их статус, прописывать детали, оставлять для них комментарии
- ![image](https://github.com/user-attachments/assets/d6c23fb8-f40f-4854-bad2-4a34fc7c4572)
+ Пользователь может сам добавлять себе задачи, изменять их статус, прописывать детали, оставлять для них комментарии, загружать файлы
+![image](https://github.com/user-attachments/assets/6bcf56b6-a193-4bc6-b9a4-4797ce3686f6)
 
- ![image](https://github.com/user-attachments/assets/f32a960c-37d6-4357-b133-b3f2eec5b128)
+![image](https://github.com/user-attachments/assets/b5b173b0-3e66-4e9f-88de-dc51e3858f05)
+
+![image](https://github.com/user-attachments/assets/43dbce54-ea74-440e-a8ae-72bb71715e96)
+
+![image](https://github.com/user-attachments/assets/da16d266-99e1-4e49-92a8-e997a7aa1a8f)
+
+
