@@ -18,6 +18,9 @@
 ![image](https://github.com/user-attachments/assets/52a43ef3-8d3a-4e88-a1e7-9e4d0714121d)
 ![image](https://github.com/user-attachments/assets/25ab201a-eb8d-4b77-8a73-add2522a6f77)
 
+и легко может вернуться к сайту в любой момент
+![Frame 23](https://github.com/user-attachments/assets/3d184fb9-5fc6-4d82-8dd7-2ebce2b005c6)
+
 
 Например:
 ![image](https://github.com/user-attachments/assets/2bf4bfe2-9bac-421f-b1b6-86d169498378)
