@@ -32,3 +32,8 @@
 По данным, которые дает админ, пользователь входит в свой аккаунт.
 
 ![image](https://github.com/user-attachments/assets/771108c2-1de8-493d-a15b-ca6de3002939)
+
+ Пользователь может сам добавлять себе задачи, изменять их статус, прописывать детали, оставлять для них комментарии
+ ![image](https://github.com/user-attachments/assets/d6c23fb8-f40f-4854-bad2-4a34fc7c4572)
+
+ ![image](https://github.com/user-attachments/assets/f32a960c-37d6-4357-b133-b3f2eec5b128)
