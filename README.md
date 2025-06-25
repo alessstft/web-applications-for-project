@@ -47,3 +47,10 @@
 
 ![image](https://github.com/user-attachments/assets/1a7abdc2-889d-44ca-a0d0-103d16ce366e)
 
+а также добавлять новые проекты
+
+![image](https://github.com/user-attachments/assets/2f3424db-52fb-44d5-beec-20921e9f8765)
+
+![image](https://github.com/user-attachments/assets/f308e924-9510-4ae1-a8bf-aa139b2c7f1e)
+
+
